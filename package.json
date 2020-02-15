@@ -1,0 +1,26 @@
+{
+  "name": "jest-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramy-medhat/jest-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramy-medhat/jest-basic/issues"
+  },
+  "homepage": "https://github.com/ramy-medhat/jest-basic#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
